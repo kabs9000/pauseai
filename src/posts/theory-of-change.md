@@ -28,6 +28,11 @@ We can get there in two ways:
 3. **Lobbying**. _Every volunteer can become an amateur lobbyist_. We send [emails to politicians](/email-builder), we meet with them, and we stay in touch. We ask them to put AI risks on the agenda, draft a treaty. The core issue that we're trying to solve is a lack of information and insight in the political sphere.
 4. **Inform the public**. We make people aware of the [risks](/risks) we're facing and what we can do to prevent them. We write articles, make videos, design images, join debates, give talks, and organize events.
 
+## What it means to do it safely:
+
+## What it means to get it under democratic control:
+
+
 ## Let's get to it
 
 [Join](/join) PauseAI and [take action](/action)!
